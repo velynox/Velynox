@@ -1,16 +1,19 @@
-## Hi there 👋
+# Velynox
 
-<!--
-**velynox/Velynox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Web developer. PHP, Tailwind, SQL. 
+> I write code that doesn't need a comment to be understood.
 
-Here are some ideas to get you started:
+I build web applications with a focus on fast load times, clean architecture, and minimal dependencies. I prefer utility-first CSS and well-structured SQL over heavy JavaScript frameworks and magic ORMs. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Backend:** PHP, MySQL / PostgreSQL, Redis
+- **Frontend:** TailwindCSS, Alpine.js, HTML / CSS
+- **Environment:** Docker, Linux, Vite
+
+## 🌐 Connect
+
+- **Website:** [velynox.de](https://velynox.de)
+
+---
+*Born on a day that only exists every 4 years.*
