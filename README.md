@@ -42,4 +42,4 @@ I build high-performance web applications with a focus on **clean architecture**
 
 ---
 
-*Born on Feb 29th. I only age once every four years, but I still ship on time.*
+*Born Feb 29th. My birthday is a rare occurrence — **my commitment to shipping on time isn't.***
