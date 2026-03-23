@@ -29,7 +29,7 @@ I build high-performance web applications with a focus on **clean architecture**
 
 | Category | Preference |
 | :--- | :--- |
-| **OS** | Linux (**Arch**, btw) , macOS |
+| **OS** | Linux (**Arch**, btw) + macOS |
 | **Editor** | VS Code + Vim Keybinds |
 | **Terminal** | Zsh + Starship |
 | **Theme** | Catppuccin Mocha |
