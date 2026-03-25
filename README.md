@@ -45,6 +45,7 @@ I build high-performance web applications with a focus on **clean architecture**
 ## 🌐 Connect
 
 * **Website:** [velynox.de](https://velynox.de)
+* **Email:** [hey@velynox.de](mailto:hey@velynox.de)
 * **GitHub:** [@Velynox](https://github.com/Velynox)
 
 ---
