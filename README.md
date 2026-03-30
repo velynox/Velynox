@@ -30,6 +30,16 @@ I build high-performance web applications with a focus on **clean architecture**
 
 ---
 
+## 🚀 Projects
+
+### [**url_shortener**](https://github.com/velynox/url_shortener)
+A self-hosted, high-performance URL shortener built with **raw PHP** and **SQLite**. 
+* **Zero Dependencies:** No frameworks, no Composer, no build steps—just pure logic.
+* **Features:** 301 redirects, a built-in stats page (`+` suffix), and a JSON API.
+* **Stack:** PHP 8.1+, SQLite (PDO), TailwindCSS.
+
+---
+
 ## 🛠️ Environment & Setup
 
 | Category | Preference |
