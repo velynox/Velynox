@@ -7,10 +7,9 @@ I build high-performance web applications with a focus on **clean architecture**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Activity
 
-![Velynox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Velynox&show_icons=true&theme=catppuccin_mocha&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Velynox&layout=compact&theme=catppuccin_mocha&hide_border=true)
+![Velynox's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Velynox&theme=catppuccin-mocha&hide_border=true)
 
 ---
 
