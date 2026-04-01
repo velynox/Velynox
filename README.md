@@ -38,6 +38,12 @@ I build high-performance web applications with a focus on **clean architecture**
 
 ## 🚀 Projects
 
+### [**ui_shelf**](https://github.com/velynox/ui_shelf)
+A local-first UI component browser for rapid prototyping with **TailwindCSS** and **Catppuccin**.
+* **Architecture:** File-system based registry with zero database requirements. 
+* **Design System:** Strictly enforced **Catppuccin Mocha** palette and **JetBrains Mono** typography.
+* **Stack:** PHP 8.2+, Tailwind Play CDN, Heroicons.
+
 ### [**url_shortener**](https://github.com/velynox/url_shortener)
 A self-hosted, high-performance URL shortener built with **raw PHP** and **SQLite**. 
 * **Zero Dependencies:** No frameworks, no Composer, no build steps—just pure logic.
