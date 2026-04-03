@@ -9,7 +9,7 @@ I build high-performance web applications with a focus on **clean architecture**
 
 ## 📊 Contribution Activity
 
-![Velynox's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Velynox&theme=catppuccin-mocha&hide_border=true)
+![Velynox's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Velynox&theme=catppuccin-mocha&hide_border=true&card_width=700&card_height=200)]
 
 ---
 
