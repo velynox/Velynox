@@ -38,6 +38,12 @@ I build high-performance web applications with a focus on **clean architecture**
 
 ## 🚀 Projects
 
+### [**finance_tracker**](https://github.com/velynox/finance_tracker)
+A self-hosted, privacy-first personal finance tracker. Track income and expenses without the cloud bloat.
+* **Architecture:** Raw PHP 8.1+ front-controller with a custom PDO singleton and automated SQLite migrations.
+* **Zero Bloat:** No frameworks, no Composer dependencies, and no external accounts required.
+* **Stack:** PHP, SQLite, TailwindCSS, Catppuccin Mocha.
+
 ### [**ui_shelf**](https://github.com/velynox/ui_shelf)
 A local-first UI component browser for rapid prototyping with **TailwindCSS** and **Catppuccin**.
 * **Architecture:** File-system based registry with zero database requirements. 
