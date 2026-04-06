@@ -1,4 +1,4 @@
-# Velynox
+# I am Velynox
 
 > **Web Developer | PHP • Tailwind • SQL**
 > *"I write code so intentional it doesn't need a comment to be understood."*
